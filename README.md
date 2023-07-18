@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi, My name is Wahyu Krisna Aji</h1>
+  <h1>👋 Hi, My name is Wahyu Krisna Aji</h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/wahyu-krisna-aji-26200412a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +10,6 @@
 ### :man_technologist: About Me :
 
 
-- 👋 Hi, I’m @aliftech
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning project
