@@ -27,10 +27,12 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliftech&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliftech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/aliftech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliftech&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliftech&layout=compact&langs_count=8&theme=synthwave"/>
+</a>
+</p>
 
 
 <!---
