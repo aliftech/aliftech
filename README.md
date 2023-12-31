@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1>👋 Hi, My name is Wahyu Krisna Aji</h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/wahyu-krisna-aji-26200412a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=aliftech&label=Profile%20views&color=0e75b6&style=flat" alt="aliftech" /> 
+    </p>
   </div>
 </div>
 
@@ -32,6 +32,13 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aliftech&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aliftech&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
+</p>
+
+### Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/wahyu-krisna-aji-26200412a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 
