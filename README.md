@@ -20,7 +20,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,nodejs,php,py,ts,vue,tensorflow,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=go,js,nodejs,php,py,ts,vue,tensorflow,mongodb,mysql,express,fastapi,flask,git,github,gitlab" />
   </a>
 </p>
 
