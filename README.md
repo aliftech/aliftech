@@ -42,8 +42,11 @@
 </p>
 
 
-<!---
-aliftech/aliftech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📈 Activity Graph
+<p align="center">
+<a href="https://github.com/aliftech">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliftech&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%" height="50%">
+</a>
+</p>
+
 
