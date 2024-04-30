@@ -34,6 +34,10 @@
 </a>
 </p>
 
+<div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=aliftech)](https://github.com/aliftech/github-profile-trophy)
+</div>
+
 ### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/wahyu-krisna-aji-26200412a/">
