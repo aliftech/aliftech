@@ -8,7 +8,7 @@
 </div>
 
 ### :man_technologist: About Me :
-As a full-stack developer, I deliver innovative solutions for various projects. I use Python, JavaScript, and PHP to create robust and user-friendly applications that meet the needs and expectations of our clients and users.
+As a full-stack developer, I deliver innovative solutions for various projects. I use Python, JavaScript, Golang, and PHP to create robust and user-friendly applications that meet the needs and expectations of our clients and users.
 I have since developed a keen interest in machine learning and cybersecurity. I'm always eager to learn new techniques and best practices in these emerging fields, and to apply my problem-solving and analytical skills to new challenges.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aliftech&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
