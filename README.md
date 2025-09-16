@@ -19,11 +19,10 @@ I'm a backend developer with 5+ years of experience building robust and scalable
 
 | Project | Description |
 |---|---|
-| [locksmith](https://github.com/aliftech/locksmith) | Secure and reliable authentication solutions for modern apps. |
-| [eosav-pro](https://github.com/aliftech/eosav-pro) | Advanced automation and integration for business workflows. |
-| [portfolio-roadmap](https://github.com/aliftech/portfolio-roadmap) | My journey and plans as a developer—see what’s next! |
-| [jin](https://github.com/aliftech/jin) | Lightweight web server and API toolkit. |
-| [galus](https://github.com/aliftech/galus) | Tools and utilities for developers, made simple. |
+| [locksmith](https://github.com/aliftech/locksmith) | Crypto key and wallet management |
+| [eosav](https://github.com/aliftech/eosav) | Simple antivirus with heuristic analysis |
+| [jin](https://github.com/aliftech/jin) | Lightweight OSINT tool |
+| [galus](https://github.com/aliftech/galus) | Tool like air and CompileDaemon |
 
 ---
 
