@@ -11,7 +11,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Building+tech+that+scales+and+earns+%F0%9F%92%B0;Bridging+code+%26+capital+through+automation+%F0%9F%92%B0;Software+Engineer+by+craft%2C+Investor+by+vision+%F0%9F%92%B0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Building+tech+that+scales+and+earns+%F0%9F%92%B0;Bridging+code+%26+capital+through+automation;Software+Engineer+by+craft%2C+Investor+by+vision+%F0%9F%92%B0" alt="Typing SVG" />
 </p>
 
 ---
