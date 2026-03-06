@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#6A5ACD">Aliftech</span> (a.k.a. <b>Wahyouka</b>)</h1>
 <h3 align="center">Software Engineer • Investor • Builder</h3>
 
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=aliftech&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/aliftech?pet-id=775657335658200802"
+    src="https://render.gitanimals.org/lines/aliftech?pet-id=776062516929573260"
     width="600"
     height="120"
   />
 </a>
+  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+tech+that+scales+and+earns+%F0%9F%92%B0;Bridging+code+%26+capital+through+automation;Software+Engineer+by+craft%2C+Investor+by+vision" alt="Typing SVG" />
